@@ -1,7 +1,7 @@
 {
-  "Visibility": "VISIBLE",
+  "Visibility": "GONE",
   "Title": "Test",
-  "Description": "Test Message",
+  "Description": "Test cine Verse Message",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
